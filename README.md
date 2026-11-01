@@ -1,4 +1,4 @@
-# Enterprise Network LAB
+# Enterprise Network Lab
 ## Overview
 This project simulates a small enterprise network with multiple branches, focusing on network segmentation, routing, security, and centralized management.
 
